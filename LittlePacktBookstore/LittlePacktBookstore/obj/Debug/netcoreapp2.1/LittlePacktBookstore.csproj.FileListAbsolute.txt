@@ -1,0 +1,69 @@
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.deps.json
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.runtimeconfig.json
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.runtimeconfig.dev.json
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.dll
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.pdb
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.csprojAssemblyReference.cache
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.csproj.CoreCompileInputs.cache
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.AssemblyInfoInputs.cache
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.AssemblyInfo.cs
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.dll
+C:\Users\ronnie\source\repos\Section 1\01.Before\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.pdb
+C:\Users\ronnie\source\repos\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.deps.json
+C:\Users\ronnie\source\repos\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.runtimeconfig.json
+C:\Users\ronnie\source\repos\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.runtimeconfig.dev.json
+C:\Users\ronnie\source\repos\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.dll
+C:\Users\ronnie\source\repos\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.pdb
+C:\Users\ronnie\source\repos\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.csprojAssemblyReference.cache
+C:\Users\ronnie\source\repos\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.csproj.CoreCompileInputs.cache
+C:\Users\ronnie\source\repos\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.AssemblyInfoInputs.cache
+C:\Users\ronnie\source\repos\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.AssemblyInfo.cs
+C:\Users\ronnie\source\repos\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.dll
+C:\Users\ronnie\source\repos\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.pdb
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.deps.json
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.runtimeconfig.json
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.runtimeconfig.dev.json
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.dll
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.pdb
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.csproj.CoreCompileInputs.cache
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.AssemblyInfoInputs.cache
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.AssemblyInfo.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.dll
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.pdb
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.Views.dll
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.Views.pdb
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.csprojAssemblyReference.cache
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.RazorAssemblyInfo.cache
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.RazorAssemblyInfo.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.TagHelpers.input.cache
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.TagHelpers.output.cache
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.RazorCoreGenerate.cache
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\Home\AddBook.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Order.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\Home\OrdersList.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\Home\ThankYou.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\Home\_Carousel.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Header.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.RazorTargetAssemblyInfo.cache
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.RazorTargetAssemblyInfo.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.Views.pdb
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\LittlePacktBookstore.csproj.CopyComplete
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\bin\Debug\netcoreapp2.1\LittlePacktBookstore.xml
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register2.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Address\Default.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Pages\ListBooks.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Pages\EditBook.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Pages\_Layout.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+E:\OneDrive\React Apps\Packt Publishing\ASP.net core mvc\Section 1\01. Start\LittlePacktBookstore\LittlePacktBookstore\obj\Debug\netcoreapp2.1\Razor\Views\Home\CountriesList.g.cshtml.cs
